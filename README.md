@@ -28,3 +28,13 @@ ___
 pip install -r requirements.txt
 python ./app.py
 ```
+
+# Проверка работоспособности
+
+## POST-запрос
+
+`curl -X POST -H "Content-Type: application/json" --data @post.json http://localhost:5000/visited_links`
+
+## GET-запрос
+
+`curl "localhost:5000/visited_domains?from=1&to=154521763822"`
