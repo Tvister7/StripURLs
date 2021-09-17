@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/static/v1&flask-2.0.1-blue">
+<img src="https://img.shields.io/badge/flask-2.0.1-blue">
 # StripURLs
 
 Тестовое задание для FunBox
