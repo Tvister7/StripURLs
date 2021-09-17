@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/flask-2.0.1-blue"><img src="https://img.shields.io/badge/redis-3.5.3-critical"><img src="https://img.shields.io/badge/python-3.9-success">
+<img src="https://img.shields.io/badge/flask-2.0.1-blue">  <img src="https://img.shields.io/badge/redis-3.5.3-critical">  <img src="https://img.shields.io/badge/python-3.9-success">
 
 # StripURLs
 
