@@ -10,16 +10,21 @@ Flask-приложение для учета посещенных ссылок �
 
 # Инструкция по запуску
 
-- С использованием **_Docker_**
-
-`docker-compose up`
-
-- Из терминала 
-
 ```
 cd your_repository
 git clone https://github.com/Tvister7/StripURLs
 cd StripURLs
+```
+
+- Запуск с использованием **_Docker_**
+
+`docker-compose up`
+
+___
+
+- Запуск из терминала 
+
+```
 pip install -r requirements.txt
 python ./app.py
 ```
