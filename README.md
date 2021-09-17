@@ -1,3 +1,4 @@
+https://img.shields.io/badge/flask-2.0.1-blue
 # StripURLs
 Тестовое задание для FunBox
 # Описание
