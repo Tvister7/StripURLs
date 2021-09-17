@@ -38,3 +38,7 @@ python ./app.py
 ## GET-запрос
 
 `curl "localhost:5000/visited_domains?from=1&to=154521763822"`
+
+## Тестирование
+
+`pytest`
